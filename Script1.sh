@@ -10,6 +10,6 @@ echo" I am checking for results"
 echo"gnsdtc"
 echo " Hello How are you" 
 echo " updated practice for merge conflict to clear concept "
-
+echo " lets check for linux VM"
 
 
